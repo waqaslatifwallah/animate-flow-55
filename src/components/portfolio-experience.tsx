@@ -125,8 +125,8 @@ export function PortfolioExperience() {
           <p data-hero-meta className="mb-4 max-w-xs font-mono text-xs uppercase leading-relaxed text-muted-foreground md:ml-[51%]">
             Independent creative developer<br />building digital experiences<br />from Karachi to everywhere.
           </p>
-          <div className="overflow-hidden"><h1 data-hero-line data-hero-word className="whitespace-nowrap font-display text-[23vw] font-semibold leading-[0.76] tracking-normal md:text-[16vw]">CREATIVE</h1></div>
-          <div className="overflow-hidden"><h1 data-hero-line className="ml-[7vw] whitespace-nowrap font-display text-[23vw] font-semibold leading-[0.82] tracking-normal text-outline md:text-[16vw]">DEVELOPER</h1></div>
+          <div className="overflow-hidden"><h1 data-hero-line data-hero-word className="whitespace-nowrap font-display text-[19vw] font-semibold leading-[0.8] tracking-normal md:text-[16vw]">CREATIVE</h1></div>
+          <div className="overflow-hidden"><h1 data-hero-line className="whitespace-nowrap font-display text-[19vw] font-semibold leading-[0.86] tracking-normal text-outline md:ml-[7vw] md:text-[16vw]">DEVELOPER</h1></div>
           <div data-hero-meta className="mt-8 flex items-end justify-between border-t border-border pt-4 text-xs uppercase text-muted-foreground">
             <span>Scroll to explore</span>
             <ArrowDownRight className="size-5 text-electric" />
